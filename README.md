@@ -1,1 +1,2 @@
 # Core-Java-Bank-Management-System
+This title reflects the core functionality of the code, which is a basic banking management system implemented using Java. It includes features like user creation, authentication, deposit, withdrawal, and balance checking. The code utilizes core Java concepts such as classes, methods, loops, and user input handling to provide the functionality of a simple banking application.
